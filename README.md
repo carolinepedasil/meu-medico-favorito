@@ -1,2 +1,1 @@
-# meu-medico-favorito
-Woman Can Code (6ª edição) - Projeto Meu Médico Favorito [API Rest Node.js] - Desenvolvimento de um novo produto onde o usuário poderá pesquisar médicos e favoritar os preferidos por ele, sendo possível dessa maneira, o paciente ter um acesso mais rápido aos médicos que mais gostou do atendimento.
+![Certificado](https://user-images.githubusercontent.com/86432393/147796073-fa975117-384d-42c3-a305-eeba41b70703.png)
